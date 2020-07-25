@@ -1,5 +1,47 @@
 # News Summary challenge
 
+## Planning
+
+### Input/Output Table
+
+```
+Input:                      Output:
+Click on news Article       Opens summary
+
+```
+
+### Required Elements
+
+HTTP server running node.js
+
+Guardian news summary API 
+
+Main page (index.html):
+
+- Image div
+- Shortend text div
+
+Summary page:
+
+- Image div
+- Main summary text body
+
+
+### Testing
+
+With writing my own tests, the challenge (like previous challenges) require me to stub out the testing so that I do no exceed the guardian API requests.
+
+### Installation & how to run
+
+1. Clone this directory.
+2. Run index.html
+
+### How to test
+
+
+
+### 
+
 * Feel free to use Google, your notes, books, etc. but work on your own.
 * If you refer to the solution of another coach or student, please put a link to that in your README.
 * If you have a partial solution, **still check in a partial solution** and send in a pull request.
